@@ -1,0 +1,16 @@
+print("-------------------SpiderSip-------------------")
+print("-------------------*********-------------------")
+print("1) Cold Coffee---------------------price:180 RS")
+print("2) Caffe Latte---------------------price:250 RS")
+print("3) Americano-----------------------price:300 RS")
+print("4) Iced Latte----------------------price:350 RS")
+print("5) Iced Americano------------------price:400 RS")
+print("6) Espresso------------------------price:500 RS")
+print("7) Cold Brew-----------------------price:550 RS")
+print("8) Cappuccino----------------------price:450 RS")
+print("9) Vanilla Latte-------------------price:150 RS")
+print("10) Vanilla Cream Frappuccino------price:200 RS")
+print("---Every hero deserves a great cup of coffee---")
+print("-------------------*********-------------------")
+
+
